@@ -1,0 +1,19 @@
+{
+  "site_title": "精选日韩电影-精选影片片单-高清影片在线观看",
+  "movie_count": 2000,
+  "category_count": 10,
+  "detail_page_count": 2000,
+  "category_counts": {
+    "romance": 203,
+    "series": 202,
+    "mystery": 202,
+    "huayu": 203,
+    "europe": 183,
+    "sci-fi": 202,
+    "rihan": 201,
+    "war-history": 201,
+    "action-comedy": 202,
+    "oumei": 201
+  },
+  "video_source_count": 20
+}
